@@ -22,7 +22,7 @@
 
 #### Gracias por visitar mi perfil  <br/>
 
-  <a href="https://www.linkedin.com/in/alma-manchamé-789608225/">
+  <a href="https://www.linkedin.com/in/alma-manchame/">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 5px;" />
   </a>
  
