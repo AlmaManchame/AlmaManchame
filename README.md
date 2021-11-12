@@ -25,13 +25,13 @@
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
   </a>
 </p>
-
+<!--
 <p align="right" >
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align='center' src="https://komarev.com/ghpvc/?username=AlmaManchame&color=blue" alt="Alma"/>
   </a>
 </p>
-
+-->
 <!--
 **AlmaManchame/AlmaManchame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
