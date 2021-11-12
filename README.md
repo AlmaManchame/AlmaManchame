@@ -1,11 +1,6 @@
 ### Hola, soy Alma Isabel 😊
 * Estudio Ingeniería en Ciencias y Sistemas
 
- 
-<p align="center" >
-   <img src="https://cdn-0.imagensemoldes.com.br/wp-content/uploads/2020/04/Ilustra%C3%A7%C3%A3o-Mike-Wazowski-Monstros-Sa-PNG.png" width="100px" /> 
-</p>
-
 
 <p align="center" >
   <a href="https://github.com/anuraghazra/github-readme-stats">
