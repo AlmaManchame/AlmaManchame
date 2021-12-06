@@ -1,30 +1,4 @@
-### Hola, soy Alma Isabel 😊
-* Estudio Ingeniería en Ciencias y Sistemas
-
-
-<p align="center" >
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmaManchame&layout=compact" alt="Alma"/>
-  </a>
-</p>
-
-
-<p align="center" >
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align='center' src="https://github-readme-stats.vercel.app/api?username=AlmaManchame" alt="Alma"/>
-  </a>
-</p>
-
-#### Gracias por visitar mi perfil  <br/>
-
-  <a href="https://www.linkedin.com/in/alma-manchame/">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 5px;" />
-  </a>
- 
-  <a href="mailto:almamanchame@gmail.com">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
-  </a>
-</p>
+### Hola, soy Alma Isabel
 <!--
 <p align="right" >
   <a href="https://github.com/anuraghazra/github-readme-stats">
